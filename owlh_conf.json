@@ -1,7 +1,7 @@
 {
     "pidfile" : "/tmp/flock.pid",
     "logfile" : "/var/log/owlh/flock.log",
-    "inventory" : "/etc/owlh/inventory.conf",
+    "inventory" : "/etc/owlh/conf/inventory.conf",
     "owlh_user" : "owlh",
     "owlh_user_key" : "/home/owlh/.ssh/owlh",
     "max_cpu" : "25",
@@ -9,7 +9,7 @@
     "max_storage" : "80",
     "capture_time" : "60",
     "default_interface" : "ens33",
-    "filter_path" : "/etc/owlh/filter.bpf",
+    "filter_path" : "/etc/owlh/conf/filter.bpf",
     "local_pcap_path" : "/usr/share/owlh/in_queue/",
     "pcap_path" : "/usr/share/owlh/pcap/",
     "owlh_interface" : "owlh",
