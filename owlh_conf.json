@@ -1,7 +1,7 @@
 {
     "pidfile" : "/tmp/flock.pid",
     "logfile" : "/var/log/owlh/flock.log",
-    "inventory" : "/etc/owlh/conf/inventory.conf",
+    "inventory" : "/etc/owlh/conf/inventory.json",
     "owlh_user" : "owlh",
     "owlh_user_key" : "/home/owlh/.ssh/owlh",
     "max_cpu" : "25",
