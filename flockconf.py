@@ -1,7 +1,7 @@
 # flock conf
-# v0.0 14-05-18 master@owlh.net
+# v0.0 11-11-18 master@owlh.net
 
-configfile = "/etc/owlh/conf/owlh_conf.conf" # this must be in other place.
+configfile = "/etc/owlh/conf/owlh_conf.json" 
 
 import json
 
